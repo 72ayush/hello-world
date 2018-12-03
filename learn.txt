@@ -1,0 +1,4 @@
+DevClub is a technical societyz of IIT Delhi with a strong team of students who are passionate about development, coding,
+developing applications that provide utility to the student community ,solving various structural and technological considerations
+in these projects, enhancing the culture of applied computer science in the college. They also organise lectures and hackathons
+around the campus.
